@@ -2,7 +2,7 @@
 requires = [
     "poetry-core>=1.0.0",
     "Cython>=^0.29",
-    "numpy >=1.21.1",
+    "numpy =1.22.4",
 ]
 build-backend = "poetry.core.masonry.api"
 
@@ -25,7 +25,7 @@ include = [
 
 [tool.poetry.dependencies]
 python = ">=3.8"
-numpy = ">=1.21.1"
+numpy = "=1.22.4"
 Cython = "^0.29"
 
 [tool.poetry.build]
