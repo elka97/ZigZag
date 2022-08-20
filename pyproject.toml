@@ -8,10 +8,10 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "zigzag"
-version = "0.3.2"
+version = "0.0.1"
 readme = "README.md"
-homepage = "https://github.com/jbn/ZigZag"
-repository = "https://github.com/jbn/ZigZag"
+homepage = "https://github.com/elka97/ZigZag" # "https://github.com/jbn/ZigZag"
+repository = "https://github.com/elka97/ZigZag" # "https://github.com/jbn/ZigZag"
 description = "Package for finding peaks and valleys of time series."
 authors = ["generativist <jbn@abreka.com>"]
 license = "BSD-3-Clause"
