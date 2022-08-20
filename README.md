@@ -5,7 +5,7 @@
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/ZigZag)
 
 
-# ZigZag
+# my fork of ZigZag - downgrade numpy to 1.22.4 due to vectorbt numpy version mismatching
 
 ZigZag provides functions for identifying the peaks and valleys of a time
 series. Additionally, it provides a function for computing the maximum drawdown.
